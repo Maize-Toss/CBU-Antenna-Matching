@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=GND New Net Name=Antenna_N
+Change Net Name : Old Net Name=NetC1_1 New Net Name=Antenna_P
+Added Class: Name=Antenna +
+Added Class: Name=Antenna -
+Added Differential Pair: Name=Antenna
